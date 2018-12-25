@@ -1,0 +1,10 @@
+E:\Epam_training\FinalTask\Core\Core\bin\Debug\NLog.config
+E:\Epam_training\FinalTask\Core\Core\bin\Debug\Core.dll
+E:\Epam_training\FinalTask\Core\Core\bin\Debug\Core.pdb
+E:\Epam_training\FinalTask\Core\Core\bin\Debug\NLog.dll
+E:\Epam_training\FinalTask\Core\Core\bin\Debug\NLog.xml
+E:\Epam_training\FinalTask\Core\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+E:\Epam_training\FinalTask\Core\Core\obj\Debug\Core.csproj.CopyComplete
+E:\Epam_training\FinalTask\Core\Core\obj\Debug\Core.dll
+E:\Epam_training\FinalTask\Core\Core\obj\Debug\Core.pdb
+E:\Epam_training\FinalTask\Core\Core\obj\Debug\Core.csprojAssemblyReference.cache

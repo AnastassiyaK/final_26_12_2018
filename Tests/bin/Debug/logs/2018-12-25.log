@@ -1,0 +1,9 @@
+2018-12-25 21:52:03.6759 | DEBUG | Core.ClassLogger | Username:testtwe65442526,Password:selenium were entered
+2018-12-25 21:52:03.7288 | DEBUG | Core.ClassLogger | Button 'LogIn' was pressed
+2018-12-25 22:07:24.1623 | DEBUG | Core.ClassLogger | Username:testtwe65442526,Password:selenium were entered
+2018-12-25 22:07:24.2052 | DEBUG | Core.ClassLogger | Button 'LogIn' was pressed
+2018-12-25 22:07:24.3402 | DEBUG | Core.ClassLogger | Sending tweet with text: tweet 12/25/2018 10:07:24 PM
+2018-12-25 22:07:35.7488 | DEBUG | Core.ClassLogger | Getting text from the first tweet on the page :  tweet 12/25/2018 10:07:24 PM
+2018-12-25 23:50:20.2510 | DEBUG | Core.ClassLogger | Username:tweet2_test1,Password:selenium1 were entered
+2018-12-25 23:50:20.3359 | DEBUG | Core.ClassLogger | Button 'LogIn' was pressed
+2018-12-25 23:50:20.5688 | DEBUG | Core.ClassLogger | Message : 'The username and password you entered did not match our records. Please double-check and try again.' is shown.User is not logged in
